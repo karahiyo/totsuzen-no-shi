@@ -1,6 +1,25 @@
 = totsuzen-no-shi
 
-Description goes here.
+＿人人人人人＿
+＞ 突然の死 ＜
+￣Y^Y^Y^Y^Y￣
+
+== How to use
+
+install:
+    $ gem install totsuzen-no-shi
+
+sample code:
+
+    require 'totsuzen-no-shi'
+    "突然の死".generate
+
+result:
+
+    ＿人人人人人＿
+    ＞ 突然の死 ＜
+    ￣Y^Y^Y^Y^Y￣
+
 
 == Contributing to totsuzen-no-shi
  
