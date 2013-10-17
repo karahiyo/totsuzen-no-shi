@@ -1,5 +1,5 @@
 require File.expand_path(File.dirname(__FILE__) + '/spec_helper')
-require 'totsuzen_no_shi'
+require 'totsuzen-no-shi'
 
 describe "TotsuzenNoShi" do
   it "あれが生成されるか_一行" do
