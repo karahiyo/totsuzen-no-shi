@@ -17,8 +17,8 @@ Jeweler::Tasks.new do |gem|
   gem.name = "totsuzen-no-shi"
   gem.homepage = "http://github.com/karahiyo/totsuzen-no-shi"
   gem.license = "MIT"
-  gem.summary = %Q{TODO: one-line summary of your gem}
-  gem.description = %Q{TODO: longer description of your gem}
+  gem.summary = "totsuzen no shi generator"
+  gem.description = "totsuzen no shi generator"
   gem.email = "a.ryuklnm@gmail.com"
   gem.authors = ["karahiyo"]
   # dependencies defined in Gemfile
